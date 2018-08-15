@@ -1,9 +1,7 @@
----
-title: SN7326 Keypad
----
+## SN7326 Keypad
 
 This is a simple keypad to test the SN7326 I2C keypad controller in the 25 button configuration we wanted for the WiPhone. Posting in the hopes it might be useful to someone else.  
-![25 Button SN7326 Keypad](SN7326_keypad.jpg){width="3.0in"}
+![25 Button SN7326 Keypad](SN7326_keypad.jpg)
 
 ### Overview (from the SN7326 datasheet)
 The SN7326 is a 64 key, key-scan controller. It offloads the burden of keyboard scanning from the host processor.  
